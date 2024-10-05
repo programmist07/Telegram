@@ -1,0 +1,12 @@
+Username: @Afruzbek
+	ID: 1
+	Role: Admin
+	Is Admin: True
+Username: @Asadbek
+	ID: 2
+	Role: Foydalanuvchi
+	Is Admin: False
+Username: @Humoyun
+	ID: 3
+	Role: Foydalanuvchi
+	Is Admin: False
